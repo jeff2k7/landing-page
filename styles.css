@@ -1,0 +1,51 @@
+/* Basic reset */
+body, h1, p, a {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c7aaf7;
+    text-align: center;
+    padding: 20px;
+}
+
+
+/* Header styling */
+header {
+    background-color: #74489e;
+    color: white;
+    padding: 20px 0;
+}
+
+
+/* Navigation styling */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+
+/* Main section styling */
+main {
+    margin: 20px 0;
+}
+
+
+/* Footer styling */
+footer {
+    background-color: #74489e;
+    color: white;
+    padding: 10px 0;
+}
+
+
+.pic{
+    width: 300px;
+    border-radius: 300px;
+    padding-top: 20px;
+}
